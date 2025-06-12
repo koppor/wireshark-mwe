@@ -1,6 +1,6 @@
-# wireshark mwe
+# wiremock mwe
 
-Minimal example showing how to run modularized wireshark.
+Minimal example showing how to run modularized wiremock.
 
 ## Background
 
